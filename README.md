@@ -1,2 +1,3 @@
 # NewsBoard1
-hello 
+This project made on Java 
+
